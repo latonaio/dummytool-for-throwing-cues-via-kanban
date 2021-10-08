@@ -1,0 +1,1 @@
+git+ssh://git@bitbucket.org/latonaio/AION-related-python-library.git@master
